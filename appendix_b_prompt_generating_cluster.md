@@ -1,0 +1,1 @@
+You're an expert at analyzing diary keeping purposes. Below is a list of purposes why people keep a diary. Cluster them: allocate similar entries into common clus-ters, give clusters descriptive names. Output the answer as a JSON list with only the names of the clusters, the purposes do not need to be given. Purpose list: [...].
