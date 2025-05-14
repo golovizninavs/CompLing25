@@ -6,7 +6,8 @@ Rules:
 - “I write to...”
 2.	Any general descriptions of events, emotions, or reflections (e.g., “I think a lot,” “I feel like I'm losing touch with myself”) are not considered explicit indications of purpose.
 3.	Output the result strictly in the following format (no comments or extra text):
-  json```
+
+  json ```
   [
     {"id": <entry number>, "purposes": [diary purpose 1, ...]},
     {"id": <entry number>, "purposes": [diary purpose N, ...]},
