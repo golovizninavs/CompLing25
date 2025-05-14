@@ -13,7 +13,9 @@ Rules:
     {"id": <entry number>, "purposes": [diary purpose N, ...]},
   ...
   ]```
+
 4.	If no explicit indication of the purpose is found, do not include this entry in the resulting JSON.
+
 5.	Examples:
 - Positive example:
      Entry: “I keep a journal to sort out my feelings and understand what's going on inside of me.”  
