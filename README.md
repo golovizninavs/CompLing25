@@ -10,6 +10,6 @@ __Keywords__: LLM, Diaries Analysis, Clustering, Archival Documents, Digital Hum
 * [**Appendix B.** Prompt for generating cluster names](./appendix_b_prompt_generating_cluster.md)
 * [**Appendix C.** Prompt for purpose clustering](./appendix_c_prompt_purpose_clustering.md)
 * [**Appendix D.** Examples of purposes](./appendix_d_examples_of_purposes.md)
-* [**Appendix E.** Errors in extracting diary-keeping purposes by LLMs](./appendix_e_errors_in_extracting_diary-keeping_purposes_by_LLM.md)
+* [**Appendix E.** Errors in extracting diary-keeping purposes by LLMs](./appendix_e_errors_in_extracting_diary-keeping_purposes_by_LLMs.md)
 * [**Appendix F.** Examples of clusters](./appendix_f_examples_of_clusters.md)
 * [**Appendix G.** Examples of diaries](./appendix_g_examples_of_diaries.md)
