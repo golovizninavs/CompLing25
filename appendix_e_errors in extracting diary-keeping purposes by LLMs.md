@@ -1,0 +1,6 @@
+- Extraction from entries mentioning other people's diaries (e.g., “to become famil-iar with Korolenko's true experiences”).
+- Extraction from entries mentioning one's own writings, but not diaries – such as books, notes, etc. (e.g., “writing on canvas”, “jotting down objections to an arti-cle”).
+- Extraction of rhetorical questions (e.g., “Why am I writing all this?”).
+- Extraction of the process of keeping a diary as a purpose (e.g., “write a diary”, “keep a diary”).
+- Extraction not the purpose, but the writing style (e.g., “keep a diary neatly”) or the place of writing (e.g., “writing on a train”).
+- Repetition of diary content, substituting the purpose of diary-keeping with the author's plans (e.g., “write an article, translate a poem, write a preface”).
