@@ -1,0 +1,3 @@
+- __Examples from the GPT-4o purpose set:__ to record the daily weather; to write about my activities during the summer of 1926; to not forget many things; to keep for myself the memories of days long past; to make extracts from my notebooks.
+- __Examples from the o1-mini purpose set:__ to talk with the diary every day, if possible; to keep an archaeological journal; to keep a record of financial expens-es; to release accumulated thoughts; to write down wishes for this year.
+- __Examples from the DeepSeek-V3 purpose set:__ in moments of despair, to lose myself in the cherished lines of a distant time; to keep a travel journal; to portray different types of people; to extract memories for analysis; to write down the truth about myself.
